@@ -19,9 +19,3 @@ public func configure(_ app: Application) throws {
     // register routes
     try routes(app)
 }
-
-// 심볼이 연결안되었따?
-// 컴파일러가 빌드할 때, 심볼, 링커
-
-// 심볼?
-// 
